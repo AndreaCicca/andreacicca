@@ -1,6 +1,6 @@
 # Hi 👋, I'm Andrea Ciccarello
 
-
+<img src="img/Github.png" width="200"/>
 
 I am a developer from Italy. I am studing computer science at Università degli studi di Parma (UNIPR) 
 - [Linkedin page](https://www.linkedin.com/in/andrea-ciccarello/)
