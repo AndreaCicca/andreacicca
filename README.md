@@ -1,4 +1,4 @@
-# Hi 👋, I'm Andrea Ciccarello
+# Hi 👋, I'm Andrea Ciccarello ✨
 
 <img src="img/Github.png" width="200"/>
 
