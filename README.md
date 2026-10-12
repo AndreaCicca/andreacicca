@@ -2,10 +2,16 @@
 
 <img src="img/Github.png" width="200"/>
 
-I am a developer from Italy. I am studing computer science at Università degli studi di Parma (UNIPR) 
-- [Linkedin page](https://www.linkedin.com/in/andrea-ciccarello/)
-- [Twitter/X account](https://twitter.com/CiccaAndre)
+AI & Software Engineer · Parma
 
-Personal website in Italian -> [andreaciccarello.com](https://andreaciccarello.com)
+I work on Explainable AI (XAI), Ground Penetrating Radar (GPR), and reliable software.
 
-Thanks [@SAWARATSUKI](https://github.com/SAWARATSUKI) for the github logo
+- Software Engineer at Xplora SRL (Mar 2026 – Present)
+- Former Research Fellow at University of Parma (Sep 2024 – Feb 2026)
+- M.Sc. in Computer Science (AI, Reliable & Secure Software), 110L/110
+
+- [Personal website](https://andreaciccarello.com)
+- [GitHub](https://github.com/AndreaCicca)
+- [LinkedIn](https://www.linkedin.com/in/andrea-ciccarello/)
+
+Thanks <a href="https://github.com/SAWARATSUKI">@SAWARATSUKI</a> for the github logo
